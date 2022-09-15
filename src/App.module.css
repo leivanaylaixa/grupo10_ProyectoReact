@@ -1,0 +1,16 @@
+.Titulo {
+    text-align: center;
+    font-size: 4rem;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #c87be7, 0 0 40px #c89fdb,
+        0 0 50px #d6aac0, 0 0 60px #fd2892, 0 0 70px #e96dab;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+
+.main {
+    text-align: justify;
+    padding-left: 180px;
+    font-size: 3rem;
+    color: #d6aac0;
+    font-family: cursive;
+}

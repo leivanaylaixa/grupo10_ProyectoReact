@@ -1,0 +1,56 @@
+[
+  {
+    "poster": "imagenes/Amor de Gata.jpg",
+    "Titulo": "Amor de gata",
+    "Sinopsis": "Miyo Sasaki es una joven estudiante de secundaria enamorada de su compañero, Kento Hinode. Aunque le persigue todos los días, él nunca parece percatarse de su presencia. Un día, de manera fortuita, descubre una máscara con la que se transforma en un gato llamado Tarō. Esto le permite acercarse a Kento, pero también corre el riesgo de no poder volver a transformarse en humana.",
+    "Año": "2020",
+    "Género": "Romance",
+    "Duracion": "104 min.",
+    "Id": "0001"
+  },
+  {
+    "poster": "imagenes/El Amor está en el Agua.jpg",
+    "Titulo": "El amor está en el agua",
+    "Sinopsis": "Tras acceder a la Universidad, Hinako se muda a un pueblo de la costa. Allí se dedica a tomar olas, pues se siente invencible cuando surfea, pero sigue sin tener claro qué le depara el futuro. Cuando se desata un fuego en el pueblo, Hinako conoce al joven bombero Minato y se enamora de él.",
+    "Año": "2019",
+    "Género": "Romance, Drama",
+    "Duracion": "94 min.",
+    "Id": "0002"
+  },
+  {
+    "poster": "imagenes/El Castillo Ambulante.jpg",
+    "Titulo": "El castillo ambulante",
+    "Sinopsis": "Narra la historia de Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana. Sophie decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
+    "Año": "2004",
+    "Género": "Romance, Aventura",
+    "Duracion": "119 min.",
+    "Id": "0003"
+  },
+  {
+    "poster": "imagenes/El Niño y la Bestia.png",
+    "Titulo": "El niño y la bestia",
+    "Sinopsis": "Kyuta es un niño solitario que vive en Tokio, y Kumatetsu es una criatura sobrenatural aislada en un mundo fantástico. Un día, el niño cruza la frontera al otro mundo y entabla amistad con Kumatetsu, que se convierte en su amigo y guía espiritual. Este encuentro les llevará a vivir multitud de aventuras.",
+    "Año": "2015",
+    "Género": "Fantasia",
+    "Duracion": "119 min.",
+    "Id": "0004"
+  },
+  {
+    "poster": "imagenes/El Recuerdo de Marnie.jpg",
+    "Titulo": "El recuerdo de Marnie",
+    "Sinopsis": "Anna es una chica solitaria, sin amigos, que vive con sus padres adoptivos. Un día es enviada con el señor y la señora Pegg. Allí, donde se extienden las dunas de arena, conoce a una chica llamada Marnie, quien pronto se convertirá en su mejor amiga. Habiendo aprendido muchas cosas sobre la amistad, Anna se dará cuenta de que Marnie no es quien parece.",
+    "Año": "2014",
+    "Género": "Drama,  Fantasia",
+    "Duracion": "103 min.",
+    "Id": "0005"
+  },
+  {
+    "poster": "imagenes/El Viaje de Chihiro.jpg",
+    "Titulo": "El viaje de Chihiro",
+    "Sinopsis": "Chihiro es una niña de diez años que viaja en coche con sus padres. Después de atravesar un túnel, llegan a un mundo fantástico, en el que no hay lugar para los seres humanos, sólo para los dioses de primera y segunda clase. Cuando descubre que sus padres han sido convertidos en cerdos, Chihiro comienza una larga aventura para salvar a sus padres.",
+    "Año": "2001",
+    "Género": "Fantasia, Aventuras",
+    "Duracion": "124 min.",
+    "Id": "0006"
+  }
+]
